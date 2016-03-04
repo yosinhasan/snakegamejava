@@ -1,2 +1,2 @@
-# snakegamejava
+# Snake game
 Console snake game  
